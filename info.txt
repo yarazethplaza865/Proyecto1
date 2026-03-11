@@ -1,0 +1,5 @@
+# Proyecto1
+Melanie Yarazeth Hernandez pLaza
+10/03/2026
+Creacion de cuenta y repositorio en github.
+Solicitud en plataformas como Git para fusionar cambios de código de una rama a otra.
