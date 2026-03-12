@@ -1,3 +1,3 @@
 Proyecto: Git Conflicts
-Responsable: Melanie Yarazeth Hernandez Plaza
+Responsable: Equipo A
 Version: 1.0
